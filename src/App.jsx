@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// we'll practice handling user inputs
