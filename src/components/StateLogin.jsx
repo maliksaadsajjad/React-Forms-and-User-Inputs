@@ -8,17 +8,17 @@ export default function Login() {
     password: '',
   });
 
+  function handleSubmit(event) {
+    event.preventDefault();
+
+    console.log(enteredvalues);
+  }
+
   function handleInputChange(identifier, value) {
     setEnteredValues((prevValues) => ({
       ...prevValues,
       [identifier]: value,
     }));
-  }
-
-  function handleSubmit(event) {
-    event.preventDefault();
-
-    console.log(enteredvalues);
   }
 
   // function handleEmailChange(event) {
