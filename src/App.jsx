@@ -13,3 +13,5 @@ function App() {
 }
 
 export default App;
+
+// ctrl + shift + f for auto-formatting
