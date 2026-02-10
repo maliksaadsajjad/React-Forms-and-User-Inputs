@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// ctrl + shift + f for auto-formatting
+// this is a custom shortcut btw
