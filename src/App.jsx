@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// Franklin will eventually show up to defend his home
