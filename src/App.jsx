@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// me was rude on 13th
