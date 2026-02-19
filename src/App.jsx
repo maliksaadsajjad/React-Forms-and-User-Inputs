@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// 1st Sehri done
+// 1st iftari also done
