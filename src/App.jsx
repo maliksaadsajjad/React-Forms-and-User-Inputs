@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// Ramadan kareem bro
+// 1st Sehri done
