@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// now imma start to work
+// i hope i finish this course b4 2nd sem
