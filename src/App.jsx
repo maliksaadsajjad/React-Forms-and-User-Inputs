@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// these were just lame excuses tho...
+// now imma start to work
