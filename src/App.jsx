@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// i hope i finish this course b4 2nd sem
