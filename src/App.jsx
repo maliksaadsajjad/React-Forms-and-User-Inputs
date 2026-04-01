@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// can't commit cuz of Ramadan kareem
+// these were just lame excuses tho...
