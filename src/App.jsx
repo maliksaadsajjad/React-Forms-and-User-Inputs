@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// sus
+// mids exams from monday ;(
