@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// mids exams from monday ;(
+// gotta study for it now
