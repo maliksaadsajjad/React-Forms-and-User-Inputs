@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// till then, there's nothing we can do...
