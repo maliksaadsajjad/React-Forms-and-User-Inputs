@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// got the login info on my gmail
+// will start learning after mids exams
