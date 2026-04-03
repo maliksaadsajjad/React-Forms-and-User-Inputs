@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// will start learning after mids exams
+// till then, there's nothing we can do...
