@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// hopefully we make it till the end
+// btw i hate physics
