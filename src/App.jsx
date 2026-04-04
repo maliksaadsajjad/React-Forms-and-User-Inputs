@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// btw i hate physics
