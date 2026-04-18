@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// i got non' to say
