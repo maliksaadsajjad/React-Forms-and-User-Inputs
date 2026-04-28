@@ -13,5 +13,3 @@ function App() {
 }
 
 export default App;
-
-// will make the best use of my powers and free will
