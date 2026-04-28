@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// Just became the CR of my class today 😎
+// will make the best use of my powers and free will
