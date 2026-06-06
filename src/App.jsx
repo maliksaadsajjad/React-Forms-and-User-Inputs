@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// look, what i did was wrong
+// finna lock in
