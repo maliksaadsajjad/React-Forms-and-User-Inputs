@@ -14,4 +14,4 @@ function App() {
 
 export default App;
 
-// sup fellas
+// look, what i did was wrong
